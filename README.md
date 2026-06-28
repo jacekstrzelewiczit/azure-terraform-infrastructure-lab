@@ -33,7 +33,7 @@ The project follows the complete Terraform workflow from authentication to deplo
 
 ---
 
-# Infrastructure Setup
+# Infrastructure Deployment
 
 ## 1. Azure Authentication
 
