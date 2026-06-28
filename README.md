@@ -9,6 +9,7 @@
 ## Architecture Diagram
 
 Azure Infrastructure as Code Lab (Terraform)
+![Architecture](diagram/diagram_terraform.png)
 
 ---
 
@@ -165,55 +166,55 @@ During this project I gained practical experience with:
 # Screenshots
 
 ### 1. Terraform Installation
-
+![Terraform Version](screenshots/01-terraform-version.png)
 Terraform Version
 
 ### 2. Azure Authentication
-
+![Azure CLI Login](screenshots/02-azure-login.png)
 Azure CLI Login
 
 ### 3. Project Structure
-
+![Project Structure](screenshots/03-project-structure.png)
 Terraform Project
 
 ### 4. Azure Provider Configuration
-
+![Provider Configuration](screenshots/04-provider-config.png)
 Provider Configuration
 
 ### 5. Resource Group
-
+![Resource Group Code](screenshots/05-resource-group-code.png)
 Resource Group Configuration
 
 ### 6. Virtual Network
-
+![Virtual Network Code](screenshots/06-vnet-code.png)
 Virtual Network Configuration
 
 ### 7. Subnets
-
+![Subnet Configuration](screenshots/07-subnets-code.png)
 Management & Server Subnets
 
 ### 8. Network Security Group
-
+![NSG Configuration](screenshots/08-nsg-code.png)
 NSG Configuration
 
 ### 9. Terraform Initialization
-
+![Terraform Init](screenshots/09-terraform-init.png)
 Terraform Init
 
 ### 10. Terraform Execution Plan
-
+![Terraform Plan](screenshots/10-terraform-plan.png)
 Terraform Plan
 
 ### 11. Infrastructure Deployment
-
+![Terraform Apply](screenshots/11-terraform-apply.png)
 Terraform Apply
 
 ### 12. Azure Deployment Verification
-
+![Azure Resources](screenshots/12-azure-resources.png)
 Azure Resources
 
 ### 13. Infrastructure Cleanup
-
+![Terraform Destroy](screenshots/13-terraform-destroy.png)
 Terraform Destroy
 
 ---
