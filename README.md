@@ -165,58 +165,81 @@ During this project I gained practical experience with:
 
 # Screenshots
 
-### 1. Terraform Installation
-![Terraform Version](screenshots/01-terraform-version.png)
-Terraform Version
+## 1. Terraform Installation
 
-### 2. Azure Authentication
-![Azure CLI Login](screenshots/02-azure-login.png)
-Azure CLI Login
+![Terraform Installation](screenshots/01-terraform-version.png)
 
-### 3. Project Structure
-![Project Structure](screenshots/03-project-structure.png)
-Terraform Project
+---
 
-### 4. Azure Provider Configuration
-![Provider Configuration](screenshots/04-provider-config.png)
-Provider Configuration
+## 2. Azure CLI Authentication
 
-### 5. Resource Group
-![Resource Group Code](screenshots/05-resource-group-code.png)
-Resource Group Configuration
+![Azure Authentication](screenshots/02-azure-login.png)
 
-### 6. Virtual Network
-![Virtual Network Code](screenshots/06-vnet-code.png)
-Virtual Network Configuration
+---
 
-### 7. Subnets
-![Subnet Configuration](screenshots/07-subnets-code.png)
-Management & Server Subnets
+## 3. Terraform Project Structure
 
-### 8. Network Security Group
-![NSG Configuration](screenshots/08-nsg-code.png)
-NSG Configuration
+![Terraform Project Structure](screenshots/03-project-structure.png)
 
-### 9. Terraform Initialization
+---
+
+## 4. AzureRM Provider Configuration
+
+![AzureRM Provider](screenshots/04-provider-config.png)
+
+---
+
+## 5. Resource Group Deployment
+
+![Resource Group](screenshots/05-resource-group-code.png)
+
+---
+
+## 6. Virtual Network Configuration
+
+![Virtual Network](screenshots/06-vnet-code.png)
+
+---
+
+## 7. Subnet Configuration
+
+![Subnets](screenshots/07-subnets-code.png)
+
+---
+
+## 8. Network Security Group Configuration
+
+![Network Security Group](screenshots/08-nsg-code.png)
+
+---
+
+## 9. Terraform Initialization
+
 ![Terraform Init](screenshots/09-terraform-init.png)
-Terraform Init
 
-### 10. Terraform Execution Plan
+---
+
+## 10. Terraform Plan
+
 ![Terraform Plan](screenshots/10-terraform-plan.png)
-Terraform Plan
 
-### 11. Infrastructure Deployment
+---
+
+## 11. Terraform Apply Deployment
+
 ![Terraform Apply](screenshots/11-terraform-apply.png)
-Terraform Apply
 
-### 12. Azure Deployment Verification
+---
+
+## 12. Azure Deployment Verification
+
 ![Azure Resources](screenshots/12-azure-resources.png)
-Azure Resources
 
-### 13. Infrastructure Cleanup
+---
+
+## 13. Terraform Destroy Cleanup
+
 ![Terraform Destroy](screenshots/13-terraform-destroy.png)
-Terraform Destroy
-
 ---
 
 # Future Improvements
